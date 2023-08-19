@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajal Sharma</h1>
-<h3 align="center">Experienced Developer Advocate with a proven track record of driving successful projects, organizing hackathons, and conducting workshops. Passionate about Web3, AI, Cloud, Kubernetes, and Zero Knowledge proof. Skilled in integration and solution engineering, content-driven onboarding, and forming strategic partnerships. Committed to educating developers and fostering product growth. Over 2 years of hands-on experience in advocating for cutting-edge technologies.</h3>
+<h3 align="center">Experienced Developer Advocate with a proven track record of driving successful projects, organizing hackathons, and conducting workshops. Passionate about Web3, AI, Cloud, Kubernetes, and Zero Knowledge proof. Skilled in olution engineering, content-driven onboarding, and forming strategic partnerships. Committed to educating developers and fostering product growth. Over 2 years of hands-on experience in advocating for cutting-edge technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajalsharma&label=Profile%20views&color=0e75b6&style=flat" alt="prajalsharma" /> </p>
 
